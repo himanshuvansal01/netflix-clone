@@ -1,2 +1,2 @@
 # netflix-clone
-Build an Netflix clone using React.js
+Build a Netflix clone using React.js
